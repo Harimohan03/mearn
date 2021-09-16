@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@500&display=swap');
+
+h1{
+    text-align: center;
+    color: coral;
+    font-family: 'Encode Sans SC', sans-serif;
+}
+
+body{
+background-color: black;
+}
+
+.row{
+    width: 100%;                 
+    
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+
+}
+
+.cls{
+
+    width: 23%;                     
+    height: 784px;
+    border: 2px solid rgb(84, 206, 228);
+    position: relative;
+}
+
+.cls img{
+    width: 100%;
+    height: 461px;
+    
+}
+
+.c1{
+    width: 100%;
+    height: 20px;
+    padding: 4px;
+    color: red;
+    
+
+    
+}
+
+.c2{
+    padding: 4px;
+    color: orchid;
+
+}
+
+.c3{
+    width: 100%;
+    height: 32px;
+    margin-top: 3px;
+    border: 1px solid rgb(84, 206, 228);
+    color: orchid;
+    
+}
+
+.c4{
+    padding: 4px;
+    width: 100%;
+    height: 150px;
+    color: white;
+}
+
+span{
+    font-weight: bold;
+    color: red;
+    font-size: 18px;
+}
+
+header{
+    width: 100%;
+    height: 35px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color:white;
+    font-size: 20px;
+    align-items: center;
+
+   
+   
+}
+
+header a{
+    text-decoration: none;
+    padding-left: 20px;
+    
+   
+}
+
+button{
+    
+    width: 80px;
+    height: 40px;
+    background-color: aquamarine;
+    color:black;
+    position: absolute;
+    top: 736px;
+    left: 218px;
+
+}
+
+.b {
+    display: flex;
+    justify-content: center;
+    
+}
+.brand img{
+    width: 40px;
+    height: 30px;
+}

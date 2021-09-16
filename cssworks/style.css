@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+text-align: center;
+text-decoration: underline;
+
+}
+body{
+background-color: black;
+
+}
+
+#one{
+    color: #38cee8;
+}
+#two{
+color: rgb(232, 229, 56);
+}
+
+h3{
+    color: hsl(267, 79%, 56%);
+}
